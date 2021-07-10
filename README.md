@@ -7,4 +7,4 @@
 
 
  ## Links 
-  Click [here](https://github.com/AyoOlu1/sidehustle-jscounter) to view the live site.
+  Click [here](https://oluwayemivictor-jscounter.netlify.app) to view the live site.
