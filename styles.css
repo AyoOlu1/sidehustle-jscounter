@@ -55,10 +55,16 @@ body {
     box-shadow: 3px 4px 10px rgb(0, 0, 0);
     cursor: pointer;
 }
-.counter-container > i {
+.counter-container > a {
     cursor: pointer;
     margin: 10px;
 }
+ a:link, a:visited, a:active {
+     color: rgb(0, 0, 0);
+ }
+ a:hover {
+     color: rgb(12, 44, 83);
+ }
 @media (min-width: 600px) {
         body {
             margin-top: 20%;
